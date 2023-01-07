@@ -1,3 +1,4 @@
+/* eslint-disable space-infix-ops */
 /* eslint-disable react/function-component-definition */
 import React from 'react';
 import { Typography, Button } from '@mui/material';
