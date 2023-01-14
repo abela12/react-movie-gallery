@@ -6,8 +6,6 @@ Movie DB <br>
 this app using Redux, IMDB API and Material UI for styling
 
 ### 🚀 Application Features <br>
-
-- Search Functionality.
 - API Integration.
 <img src="https://i.imgur.com/7R7PNUu.png">
 
