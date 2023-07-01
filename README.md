@@ -1,12 +1,13 @@
 # 🎖️ React Movie App
 
 ## 🚀 About Movie App
+React Movie App is a web application that utilizes the IMDB API to display movie information. It is built using React, Redux for state management, and Material UI for styling.
 
-Movie DB <br>
-this app using Redux, IMDB API and Material UI for styling
 
 ### 🚀 Application Features <br>
-- API Integration.
+- Integration with the IMDB API to fetch movie data.
+- User-friendly interface with a visually appealing design using Material UI.
+
 <img src="https://i.imgur.com/7R7PNUu.png">
 
 ## 🚀 Install
@@ -25,7 +26,12 @@ yarn start
 
 ## 🚀 Technology Used
 
-- React
-- Material UI
-- React Redux
-- Styled Component
+React Movie App is built using the following technologies:
+
+- React: A JavaScript library for building user interfaces.
+- Material UI: A popular UI component library for React applications.
+- React Redux: A state management library for React applications.
+- Styled Components: A CSS-in-JS library for styling React components.
+
+Feel free to explore and enhance the React Movie App as per your requirements!
+
