@@ -54,6 +54,8 @@ export const tmdbApi = createApi({
     getMoviesByActorId: builder.query({
       query: ({ id, page }) => `/discover/movie?with_cast=${id}&page=${page}&api_key=${tmdbApiKey}`,
     }),
+    // *TODO: Add favorite 
+
   }),
 });
 
